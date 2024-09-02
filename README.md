@@ -1,6 +1,8 @@
+# Power Generation Forecasting with AB-Net:
+Welcome to the GitHub repository for solar and wind power generation forecasting using AB-Net.
+
 # Proposed Framework:
 ![Picture2](https://github.com/user-attachments/assets/b6f1a280-8c2b-4708-9afa-74d8cc1fef50)
-
 
 # Usage:
 To run the code and perform power generation forecasting:
