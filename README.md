@@ -1,3 +1,7 @@
+# Proposed Framework:
+![Picture2](https://github.com/user-attachments/assets/b6f1a280-8c2b-4708-9afa-74d8cc1fef50)
+
+
 # Usage:
 To run the code and perform power generation forecasting:
 1. Update the dataset path in the run_forecasting.py file to point to the location where you have the dataset.
